@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Álvaro Miguel
+# Maria Clara
 
 **`Desenvolvedor FullStack`**
 
